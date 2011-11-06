@@ -1,0 +1,11 @@
+SimpleCache 
+-----------
+
+Simple and fast cache system for PHP using file and array structure.
+It generates PHP file for caching using array for each key.
+If you use a PHP bytecode accelerator, as APC, this caching system
+is very fast.
+
+
+(C) Copyright 2011 Enrico Zimuel (enrico@zimuel.it)
+GNU General Public License - http://www.gnu.org/licenses/gpl.html
